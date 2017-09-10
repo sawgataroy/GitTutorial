@@ -1,0 +1,2 @@
+This shows the steps to use git from beginning
+for ameteur to pro.
