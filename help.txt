@@ -1,2 +1,3 @@
 This shows the steps to use git from beginning
-for ameteur to pro.
+for ameteur to pro
+.This file is in new branch power features.
